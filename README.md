@@ -1,4 +1,4 @@
-<u>**Project Purpose**</u>
+<u>Project Purpose</u>
 
 This project simulates the role of an Information Systems Security Officer supporting authorization of a Moderate impact SaaS Human Resources Information System operating within a civilian federal enterprise environment.
 
