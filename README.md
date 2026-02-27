@@ -21,7 +21,9 @@ Availability: Moderate
 Categorization rationale includes:
 
 • Storage and processing of employee PII
+
 • Integrity requirements for payroll and personnel records
+
 • Operational disruption risk if system availability is degraded
 
 **RMF Lifecycle Phases Demonstrated**
