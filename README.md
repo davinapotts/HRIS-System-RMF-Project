@@ -22,11 +22,11 @@ Due to the sensitivity of the data and business reliance on system confidentiali
 
 ### **Categorization rationale includes:**
 
-• Storage and processing of employee PII
+- Storage and processing of employee PII
 
-• Integrity requirements for payroll and personnel records
+- Integrity requirements for payroll and personnel records
 
-• Operational disruption risk if system availability is degraded
+- Operational disruption risk if system availability is degraded
 
 ### **RMF Lifecycle Phases Demonstrated**
 
