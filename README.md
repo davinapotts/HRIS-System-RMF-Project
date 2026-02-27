@@ -15,33 +15,23 @@ Due to the sensitivity of the data and business reliance on system confidentiali
 ### **Security Categorization**
 
 - Confidentiality: Moderate
-
 - Integrity: Moderate
-
 - Availability: Moderate
 
 ### **Categorization rationale includes:**
 
 - Storage and processing of employee PII
-
 - Integrity requirements for payroll and personnel records
-
 - Operational disruption risk if system availability is degraded
 
 ### **RMF Lifecycle Phases Demonstrated**
 
 - Prepare
-
 - Categorize
-
 - Select
-
 - Implement
-
 - Assess
-
 - Authorize
-
 - Monitor
 
 Each phase includes structured documentation artifacts aligned to NIST SP 800-37 and NIST SP 800-53 Rev 5.
