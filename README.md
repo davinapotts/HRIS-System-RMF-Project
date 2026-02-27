@@ -48,11 +48,11 @@ Each phase includes structured documentation artifacts aligned to NIST SP 800-37
 
 ### **Key Artifacts Included**
 
-• System description and boundary definition
-• Data flow and architectural diagrams
-• FIPS 199 categorization analysis
-• Control baseline selection and tailoring rationale
-• Sample SSP control implementation statements
-• Risk register with inherent and residual risk scoring
-• POA&M entries with remediation tracking
-• Continuous monitoring strategy and reporting framework
+- System description and boundary definition
+- Data flow and architectural diagrams
+- FIPS 199 categorization analysis
+- Control baseline selection and tailoring rationale
+- Sample SSP control implementation statements
+- Risk register with inherent and residual risk scoring
+- POA&M entries with remediation tracking
+- Continuous monitoring strategy and reporting framework
