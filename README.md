@@ -4,7 +4,7 @@ This project simulates the role of an Information Systems Security Officer suppo
 
 The objective is to demonstrate practical application of the NIST Risk Management Framework across the system lifecycle, from categorization through continuous monitoring. 
 
-**Organizational Context**
+### **Organizational Context**
 
 ABC Company, is a fictional civilian federal entity seeking to modernize their legacy human resources platform through implementation of a SaaS-based HRIS. 
 
@@ -12,15 +12,15 @@ The system supports personnel records management, payroll coordination, benefits
 
 Due to the sensitivity of the data and business reliance on system confidentiality, integrity, and availability, the system is categorized as Moderate impact in accordance with FIPS 199.
 
-**Security Categorization**
+### **Security Categorization**
 
-Confidentiality: Moderate
+- Confidentiality: Moderate
 
-Integrity: Moderate
+- Integrity: Moderate
 
-Availability: Moderate
+- Availability: Moderate
 
-**Categorization rationale includes:**
+### **Categorization rationale includes:**
 
 • Storage and processing of employee PII
 
@@ -28,25 +28,25 @@ Availability: Moderate
 
 • Operational disruption risk if system availability is degraded
 
-**RMF Lifecycle Phases Demonstrated**
+### **RMF Lifecycle Phases Demonstrated**
 
-Prepare
+- Prepare
 
-Categorize
+- Categorize
 
-Select
+- Select
 
-Implement
+- Implement
 
-Assess
+- Assess
 
-Authorize
+- Authorize
 
-Monitor
+- Monitor
 
 Each phase includes structured documentation artifacts aligned to NIST SP 800-37 and NIST SP 800-53 Rev 5.
 
-**Key Artifacts Included**
+### **Key Artifacts Included**
 
 • System description and boundary definition
 • Data flow and architectural diagrams
