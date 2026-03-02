@@ -13,6 +13,7 @@ The system supports:
 - Payroll coordination
 - Benefits administration
 - Workforce data reporting
+
 The environment processes Personally Identifiable Information (PII) and supports mission-enabling administrative operations. 
 
 Due to the sensitivity of the data and business reliance on system confidentiality, integrity, and availability, the system is categorized as Moderate impact in accordance with FIPS 199.
