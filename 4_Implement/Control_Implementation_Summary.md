@@ -1,6 +1,6 @@
 # Control Implementation Summary
 
-The following control implementation statements reflect selected controls from the Moderate baseline tailored for the HRIS system. Control classifications include common, hybrid, and system-specific responsibilities in accordance with the shared responsibility model.
+The following control implementation statements reflect selected controls from the Moderate baseline defined in NIST SP 800-53 Rev. 5 and NIST SP 800-53B tailored for the HRIS system. Control classifications include common, hybrid, and system-specific responsibilities in accordance with the shared responsibility model. The controls included in this repository represent a selected sample of that baseline and are provided for demonstration purposes to illustrate how controls are analyzed, classified, and documented within the system.
 
 ---
 
