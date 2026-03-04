@@ -4,7 +4,7 @@
 
 In accordance with the Moderate security categorization determined under FIPS 199, the Moderate baseline of security controls defined in NIST SP 800-53 Rev 5 was selected for the Human Resources Information System (HRIS).
 
-The Moderate baseline is appropriate due to the system’s processing of employee Personally Identifiable Information, payroll data, and other sensitive administrative records.
+The Moderate baseline is appropriate due to the system’s processing of employee personally identifiable information, payroll data, and other sensitive administrative records.
 
 ---
 
