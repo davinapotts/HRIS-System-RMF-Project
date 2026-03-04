@@ -1,7 +1,8 @@
 # System Description
 
 ## System Name
-Human Resources Information System (HRIS)
+Civilian Federal Agency Human Resources Information System (HRIS)
+CFA-HRIS-001
 
 ## System Type
 Software as a Service (SaaS) Major Application
