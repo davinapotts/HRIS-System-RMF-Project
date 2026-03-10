@@ -22,7 +22,7 @@ The HRIS is a SaaS-based major application supporting human resources operations
 - HR analytics and compliance reporting  
 - Payroll coordination through secure integration with external payroll services  
 
-## Information Types Processed
+## Data Types Processed
 
 The system processes and stores:
 
@@ -43,12 +43,18 @@ The system processes and stores:
 
 ## System Environment
 
-- SaaS HRIS hosted and managed by a third-party vendor  
-- Accessed via web browser from organization-managed endpoints and approved personal devices  
-- Integrated with enterprise Single Sign-On and Multi-Factor Authentication  
+- SaaS cloud hosted HRIS operated by a third-party vendor   
+- Accessed through web browsers from organization managed endpoints and approved personal devices
+- Integrated with enterprise Single Sign On (SSO) and Multi Factor Authentication (MFA) for secure authentication 
 - Secured API connections supporting data exchange with payroll and benefits systems  
 
 ## Authorization Boundary
+
+The authorization boundary for the HRIS includes the organization's HRIS SaaS tenant and the configurations managed by the agency within the application. This includes user role configuration, access control settings, audit logging settings, and HR data stored within the HRIS application.
+
+The authorization boundary does not include the underlying cloud infrastructure used to host the system. Infrastructure components such as servers, storage, networking, virtualization, and physical hosting are managed by the SaaS provider and are outside of the agency's authorization boundary.
+
+External systems that exchange information with the HRIS, such as payroll and benefits providers, are considered interconnected systems and are not included within the HRIS authorization boundary.
 
 ### Inside the Boundary
 
